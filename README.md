@@ -1,1 +1,3 @@
 # UCSP-dataset
+data1_4,data02,...,data10   big  
+l_data01,...,l_data02  small  from  ...
